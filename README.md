@@ -1,6 +1,4 @@
-# Algorithm to generate a 3 dimensional Packing of Boxes in a container, with constraints as full stability underneath and having a yaml file as Input which specifies the sizes and number of boxes and size of container 
-
-# 3D Bin Packing Python reading .yaml Instances Greedy BestFit
+# YAML-Driven Stable 3-D Container-Box Packing Algorithm
 
 ### Final Results
 ![alt text](https://github.com/Kevin-Meda/3D_Bin_Packing_Python_reading_.yaml_files_instances/blob/main/Capture.JPG)
